@@ -1,0 +1,11 @@
+<suite name="RegressionSuite">
+    <test name="Functionality Test">
+        <classes>
+            <class name="part3_4.com.demoqa.test.part3.elements.WebTableTest">
+                <methods>
+                    <include name="testWebTable"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
